@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Deck Builder</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_display_search">Main</string>
+    <string name="title_activity_display_results">Refine Search</string>
+    <string name="app_label">Deck Builder</string>
+    <string name="search_hint">Card Name</string>
+
+</resources>
